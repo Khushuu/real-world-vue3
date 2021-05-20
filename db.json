@@ -1,0 +1,64 @@
+{
+      "events": [
+        {
+          "id": 8933442,
+          "category": "animal welfare",
+          "title": "Cat Adoption Day",
+          "description": "Find your new feline friend at this event.",
+          "location": "New Delhi",
+          "date": "June 1, 2021",
+          "time": "04:00 PM",
+          "organizer": "Khushboo Vashishth"
+        },
+        {
+          "id": 567833392,
+          "category": "children education",
+          "title": "Spread Your Knowledge",
+          "description": "Choose one to grow one",
+          "location": "Kolkata",
+          "date": "May 1, 2021",
+          "time": "05:00 PM",
+          "organizer": "Khushboo Vashishth"
+        },
+        {
+          "id": 8933442,
+          "category": "Women Empowerment",
+          "title": "Let's Make Women Stronger",
+          "description": "Take a step ahead to help women",
+          "location": "New Delhi",
+          "date": "June 8, 2021",
+          "time": "06:00 PM",
+          "organizer": "Khushboo Vashishth"
+        },
+        {
+          "id": 8933442,
+          "category": "animal welfare",
+          "title": "Cat Adoption Day",
+          "description": "Find your new feline friend at this event.",
+          "location": "New Delhi",
+          "date": "June 1, 2021",
+          "time": "07:00 PM",
+          "organizer": "Khushboo Vashishth"
+        },
+        {
+          "id": 8933442,
+          "category": "animal welfare",
+          "title": "Cat Adoption Day",
+          "description": "Find your new feline friend at this event.",
+          "location": "New Delhi",
+          "date": "June 1, 2021",
+          "time": "08:00 PM",
+          "organizer": "Khushboo Vashishth"
+        },
+        {
+          "id": 8933442,
+          "category": "animal welfare",
+          "title": "Cat Adoption Day",
+          "description": "Find your new feline friend at this event.",
+          "location": "New Delhi",
+          "date": "June 1, 2021",
+          "time": "09:00 PM",
+          "organizer": "Khushboo Vashishth"
+        },
+      ],
+    }
